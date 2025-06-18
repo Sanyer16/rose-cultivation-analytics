@@ -1,5 +1,5 @@
 
-use [bootcamp];
+use [RosaCultivoDB];
 
 ------> CREAR BASE DE DATOS <------
 
