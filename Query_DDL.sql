@@ -5,7 +5,7 @@ use [RosaCultivoDB];
 
 CREATE DATABASE bootcamp;
 
-USE bootcamp;
+USE [RosaCultivoDB];
 SELECT table_name = t.name
 FROM sys.tables t
 INNER JOIN sys.schemas s ON t.schema_id = s.schema_id
@@ -170,7 +170,7 @@ INSERT INTO tb_Ubicacion_Cama (bloque, numero_cama) VALUES ('Bloque B', 8);
 INSERT INTO tb_Ubicacion_Cama (bloque, numero_cama) VALUES ('Bloque C', 9);
 INSERT INTO tb_Ubicacion_Cama (bloque, numero_cama) VALUES ('Bloque A', 10);
 
-SELECT * FROM tb_Ubicacion_Cama;
+
 SELECT * FROM tb_Ubicacion_Cama WHERE bloque = 'Bloque A';
 SELECT * FROM tb_Ubicacion_Cama WHERE numero_cama = 3;
 SELECT COUNT(*) AS total_camas FROM tb_Ubicacion_Cama;
