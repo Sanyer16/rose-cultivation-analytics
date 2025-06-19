@@ -1,7 +1,6 @@
 # Prueba Técnica – Analista de Datos (SQL Server & Power BI) 🌹 
 
-Este repositorio contiene el desarrollo de una **prueba técnica** para el cargo de **Analista de Datos**, aplicada a una empresa dedicada al cultivo de rosas.\
-El ejercicio abarca el modelado de datos, implementación en SQL Server y creación de un reporte en Power BI para responder preguntas clave del negocio.
+Este repositorio contiene el desarrollo de una prueba técnica para el cargo de Analista de Datos, aplicada a una empresa dedicada al cultivo de rosas, que abarca el modelado de datos, implementación en SQL Server y creación de un reporte en Power BI para responder preguntas clave del negocio.
 
 ---
 
