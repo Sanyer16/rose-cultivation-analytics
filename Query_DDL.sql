@@ -121,16 +121,16 @@ REFERENCES tb_Ubicacion_Cama(id_ubicacion_cama);
 
 --INSERT INTO tb_Operario:
 
-INSERT INTO tb_Operario (numero_documento, nombres, apellidos) VALUES ('123456789', 'Juan', 'Pérez');
-INSERT INTO tb_Operario (numero_documento, nombres, apellidos) VALUES ('987654321', 'María', 'Gómez');
-INSERT INTO tb_Operario (numero_documento, nombres, apellidos) VALUES ('456789012', 'Carlos', 'Rodríguez');
-INSERT INTO tb_Operario (numero_documento, nombres, apellidos) VALUES ('654321098', 'Elena', 'Martínez');
-INSERT INTO tb_Operario (numero_documento, nombres, apellidos) VALUES ('789012345', 'Luis', 'Sánchez');
+INSERT INTO tb_Operario (numero_documento, nombres, apellidos) VALUES ('123456789', 'Juan', 'Pï¿½rez');
+INSERT INTO tb_Operario (numero_documento, nombres, apellidos) VALUES ('987654321', 'Marï¿½a', 'Gï¿½mez');
+INSERT INTO tb_Operario (numero_documento, nombres, apellidos) VALUES ('456789012', 'Carlos', 'Rodrï¿½guez');
+INSERT INTO tb_Operario (numero_documento, nombres, apellidos) VALUES ('654321098', 'Elena', 'Martï¿½nez');
+INSERT INTO tb_Operario (numero_documento, nombres, apellidos) VALUES ('789012345', 'Luis', 'Sï¿½nchez');
 INSERT INTO tb_Operario (numero_documento, nombres, apellidos) VALUES ('210987654', 'Sophie', 'Dubois');
-INSERT INTO tb_Operario (numero_documento, nombres, apellidos) VALUES ('543210987', 'Pablo', 'García');
+INSERT INTO tb_Operario (numero_documento, nombres, apellidos) VALUES ('543210987', 'Pablo', 'Garcï¿½a');
 INSERT INTO tb_Operario (numero_documento, nombres, apellidos) VALUES ('876543210', 'Isabella', 'Moreno');
-INSERT INTO tb_Operario (numero_documento, nombres, apellidos) VALUES ('109876543', 'Miguel', 'López');
-INSERT INTO tb_Operario (numero_documento, nombres, apellidos) VALUES ('321098765', 'Olivia', 'Fernández');
+INSERT INTO tb_Operario (numero_documento, nombres, apellidos) VALUES ('109876543', 'Miguel', 'Lï¿½pez');
+INSERT INTO tb_Operario (numero_documento, nombres, apellidos) VALUES ('321098765', 'Olivia', 'Fernï¿½ndez');
 
 SELECT * FROM tb_Operario;
 
